@@ -1,0 +1,13 @@
+# Entorno Mario adaptado a gymnasium
+gymnasium==0.29.1
+gymnasium-super-mario-bros==1.0.2
+nes-py==8.2.1
+
+# RL compatible con gymnasium y Python 3.12
+stable-baselines3==2.2.1
+shimmy>=2.0
+
+# Dependencias comunes
+opencv-python
+matplotlib
+numpy
